@@ -12,5 +12,7 @@ public class SumNumbers {
         SumTwoNumbers obj = new SumTwoNumbers();
         // actual result,           // expected
         Assert.assertEquals(obj.add(1, 2), 3);
+
+        // hi
     }
 }
